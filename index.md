@@ -1,11 +1,11 @@
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You. We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy
 
-Interpretation and Definitions
-Interpretation
+- Interpretation and Definitions
+1. Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-Definitions
+2. Definitions
 
 For the purposes of this Privacy Policy:
 
@@ -24,7 +24,7 @@ You means the individual accessing or using the Service, or the company, or othe
 Collecting and Using Your Personal Data
 Types of Data Collected
 
-Personal Data
+- Personal Data
 
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
@@ -41,7 +41,7 @@ When You access the Service by or through a mobile device, We may collect certai
 
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
-Tracking Technologies and Cookies
+- Tracking Technologies and Cookies
 We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.
 
 You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.
@@ -69,10 +69,10 @@ Administered by: Us
 
 These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website. For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
 
-Use of Your Personal Data
+- Use of Your Personal Data
 The Company collects Your contacts, addresses, emails through api.beecow.com. Beecow is the former name of GoSell e-commerce platform.
 
-The Company may use Personal Data for the following purposes:
+- The Company may use Personal Data for the following purposes:
 
 To provide and maintain our Service, including to monitor the usage of our Service.
 To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
@@ -90,23 +90,23 @@ The Company will retain Your Personal Data only for as long as is necessary for 
 
 The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
 
-Transfer of Your Personal Data
+- Transfer of Your Personal Data
 Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
 
 Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
 
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
-Disclosure of Your Personal Data
-Business Transactions
+- Disclosure of Your Personal Data
+1. Business Transactions
 
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-Law enforcement
+2. Law enforcement
 
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-Other legal requirements
+3. Other legal requirements
 
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
@@ -119,10 +119,10 @@ Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-Links to Other Websites
+4. Links to Other Websites
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
-Delete your personal data
+5. Delete your personal data
 
 If you don’t want to continue using our service, you can request deleting your personal data. 
 
@@ -130,24 +130,24 @@ After requested, your data will be instantly and permanently removed from our si
 
 How to request deleting personal data
 
-  2.1 Login application with your account that you want to delete
+  5.1 Login application with your account that you want to delete
   
-  2.2 Go to user’s profile screen
+  5.2 Go to user’s profile screen
   
-  2.3 Tap on Delete account button
+  5.3 Tap on Delete account button
   
-  2.4 Confirm delete account
+  5.4 Confirm delete account
   
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Changes to this Privacy Policy
+6. Changes to this Privacy Policy
 We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
 We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Contact Us
+- Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
 By email: cskh@gosell.vn.
