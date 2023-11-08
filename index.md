@@ -123,11 +123,19 @@ Links to Other Websites
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 Delete your personal data
-If you don’t want to continue using our service, you can request deleting your personal data. After requested, your data will be instantly and permanently removed from our site. This action will not be undone.
+
+If you don’t want to continue using our service, you can request deleting your personal data. 
+
+After requested, your data will be instantly and permanently removed from our site. This action will not be undone.
+
 How to request deleting personal data
+
   2.1 Login application with your account that you want to delete
+  
   2.2 Go to user’s profile screen
+  
   2.3 Tap on Delete account button
+  
   2.4 Confirm delete account
   
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
